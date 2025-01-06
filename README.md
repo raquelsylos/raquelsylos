@@ -40,7 +40,7 @@ Systems Analysis and Development at [UNINOVE](https://www.uninove.br/) (in progr
 <br>
 
 <h3>📫 Connect with me </h3>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/raquelbiondi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
   <a href="https://www.instagram.com/_raquelbiondi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFF0F5?style=for-the-badge&logo=instagram&logoColor=black"></a>
   <a href="mailto:raquelsylos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FFF0F5?style=for-the-badge&logo=gmail&logoColor=black"></a> 
 </div>
