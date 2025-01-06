@@ -1,13 +1,13 @@
 <div align="center"> 
-  <img src="[https://github.com/raquelsylos/raquelsylos/blob/main/profile_header_github.jpg?raw=true](https://github.com/raquelsylos/raquelsylos/blob/main/github_profile_header.png?raw=true)">
+  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/github_profile_header.png?raw=true">
 
-  # Welcome ⚡
+  # Welcome ✨
   <h4 align="center"> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h4>
+
+  📍 Based in São Paulo - Brasil 
 </div>
 
  
-📍 Based in São Paulo - Brasil 
-
 
 <h3 align="left"> 🔧 Languages and Tools </h3>
 
