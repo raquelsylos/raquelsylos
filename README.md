@@ -16,7 +16,7 @@
     
                             
 - 🔭 I’m currently working on my portfolio and brainstorming ideas
-- 🌱 I’m currently learning Python and delving deeper into SQL & PHP
+- 🌱 Also learning Python and delving deeper into SQL & PHP
 - 😄 Pronouns: She/Her
 
 ### 📫 Connect with me:
