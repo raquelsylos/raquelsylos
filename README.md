@@ -8,8 +8,9 @@
  
 📍 Based in São Paulo - Brasil 
 
-<hr>
+
 <h3 align="left"> 🔧 Languages and Tools </h3>
+
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
 ![Rails](https://img.shields.io/badge/-Rails-red?style=flat-square&logo=rubyonrails)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
