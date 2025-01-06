@@ -6,7 +6,7 @@
 </div>
 
  
-📍 São Paulo (BR) 
+📍 Based in São Paulo - Brasil 
 
 ### 🔧 Languages and Tools:
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
@@ -16,9 +16,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass)
 
+#### 🎓 Graduated: 
+- Graphic & Product Design at **FACAMP** ✅
+  
+- Full Stack Web Development at **LEWAGON** ✅
+  
+- Systems Analysis and Development at **UNINOVE** 🔜
                             
-  - 🔭 I’m currently working on my portfolio and brainstorming ideas  
-  - 🌱 Also learning Python and delving deeper into SQL & PHP  
+  - 🔭 I’m currently working on my portfolio and brainstorming ideas
+     
+  - 🌱 Also learning Python and delving deeper into **SQL & PHP**
+   
   - 😄 Pronouns: She/Her
 
 ### 📫 Connect with me:
