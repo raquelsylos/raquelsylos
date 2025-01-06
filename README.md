@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/gh_profile_header.jpg?raw=true" alt="Header" width="1000px">
+  <img src="" alt="Header" width="1000px">
 
   # Welcome ⚡
   ### I'm a curious, tech enthusiast person, always willing to learn new things and languages 👩🏻‍💻
