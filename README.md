@@ -16,12 +16,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass)
 
-#### 🎓 Graduated: 
-- Graphic & Product Design at **FACAMP** ✅
+<hr>
+<h3 align="left">About me:</h3>
+
+- Graphic & Product Designer graduated from [FACAMP](https://vestibular3.facamp.com.br/) 
   
-- Full Stack Web Development at **LEWAGON** ✅
+- Full-Stack Web Developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) 
   
-- Systems Analysis and Development at **UNINOVE** 🔜
+- Currently studying Systems Analysis and Development at [UNINOVE](https://www.uninove.br/)
+  
                             
   - 🔭 I’m currently working on my portfolio and brainstorming ideas
      
