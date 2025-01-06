@@ -22,11 +22,11 @@
 <hr>
 <h3> 🎓 Academic Background </h3>
 
-Graphic & Product Designer graduated from [FACAMP](https://vestibular3.facamp.com.br/) 
+✅ Graphic & Product Design at [FACAMP](https://vestibular3.facamp.com.br/) 
   
-Full-Stack Web Developer graduated from [Le Wagon](https://www.lewagon.com/) 
+✅ Full-Stack Web Development at [Le Wagon](https://www.lewagon.com/) 
   
-Systems Analysis and Development at [UNINOVE](https://www.uninove.br/) (in progress 📶)
+🔜 Systems Analysis and Development at [UNINOVE](https://www.uninove.br/) (in progress 📶)
 
 <hr>
 <h3> 👩🏻‍💻 A little about me </h3>
