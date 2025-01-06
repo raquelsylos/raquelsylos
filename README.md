@@ -1,12 +1,12 @@
 <div align="center"> 
-  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/github_profile_header.png?raw=true">
+  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/github_profile_header.png?raw=true"/>
 
-  # Welcome ✨
-  <h4 align="center"> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h4>
+  <h2> Welcome ✨</h2>
+  <h4> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h4>
 
   📍 Based in São Paulo - Brasil 
-<br>
-
+<br><br>
+<hr>
 <h3> 🔧 Languages and Tools </h3>
 
 <p> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-285497?style=for-the-badge&logo=ruby&logoColor=violet" alt="ruby" /> </a> 
