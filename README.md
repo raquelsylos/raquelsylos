@@ -1,5 +1,6 @@
-## Hi there 👋
+<img src="https://github.com/raquelsylos/raquelsylos/blob/main/gh_profile_header.jpg?raw=true" alt="Header" width="1000px">
 
+A web developer under construction from São Paulo (BR)
 <!--
 **raquelsylos/raquelsylos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
