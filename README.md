@@ -29,24 +29,32 @@
   
 🔜 Systems Analysis and Development at [UNINOVE](https://www.uninove.br/) (in progress 📶)
 
-<hr>
-<h3> 👩🏻‍💻 A little about me </h3>
-                            
-✍🏻 I’m currently working on my portfolio and brainstorming ideas
-     
-🌱 Also learning Python and delving deeper into **SQL & PHP**
+<br>
    
-😄 Pronouns: She/Her
-
-<br>
-
-<h3>📫 Connect with me </h3>
-  <a href="https://www.linkedin.com/in/raquelbiondi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-  <a href="https://www.instagram.com/_raquelbiondi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFF0F5?style=for-the-badge&logo=instagram&logoColor=black"></a>
-  <a href="mailto:raquelsylos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FFF0F5?style=for-the-badge&logo=gmail&logoColor=black"></a> 
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=raquelsylos&show_icons=true&locale=en&theme=tokyonight" alt="raquelsylos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelsylos&layout=compact&theme=tokyonight&langs_count=6" alt="raquelsylos" />
 </div>
+
+<hr>
+
+<h3 align="center">📫 Connect with me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/raquelbiondi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+  <a href="https://www.instagram.com/_raquelbiondi/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-FFF0F5?style=for-the-badge&logo=instagram&logoColor=black">
+  </a>
+  <a href="mailto:raquelsylos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FFF0F5?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
+</div>
+
 <br>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=raquelsylos&label=Profile%20views&color=0e75b6&style=flat" alt="raquelsylos" /> 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raquelsylos&label=Profile%20views&color=0e75b6&style=flat" alt="raquelsylos" />
 </p>
+
 
