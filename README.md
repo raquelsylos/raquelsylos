@@ -2,7 +2,7 @@
   <img src="https://github.com/raquelsylos/raquelsylos/blob/main/github_profile_header.png?raw=true"/>
 
   <h2> Welcome ✨</h2><br>
-  <h4> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h4>
+  <h3> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h3>
 
   📍 From São Paulo (BR)
 <br><br>
