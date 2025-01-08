@@ -13,7 +13,8 @@
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.shields.io/badge/Ruby_on_Rails-285497?style=for-the-badge&logo=ruby-on-rails&logoColor=violet" alt="rails" /> </a>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://shields.io/badge/git-285497?style=for-the-badge&logo=git&logoColor=violet" alt="git" /> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-285497?style=for-the-badge&logo=javascript&logoColor=violet" alt="javascript"/> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-285497?style=for-the-badge&logo=css3&logoColor=violet" alt="css3" /> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-285497?style=for-the-badge&logo=css3&logoColor=violet" alt="css3" /> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-285497?style=for-the-badge&logo=figma&logoColor=violet" alt="figma" /> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-285497?style=for-the-badge&logo=html5&logoColor=violet" alt="html5" /> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-285497?style=for-the-badge&logo=sass&logoColor=violet" alt="sass" /> </a> 
   <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/PostgreSQL-285497?style=for-the-badge&logo=postgresql&logoColor=violet" alt="postgresql"/> </a> 
