@@ -44,3 +44,8 @@
   <a href="https://www.instagram.com/_raquelbiondi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFF0F5?style=for-the-badge&logo=instagram&logoColor=black"></a>
   <a href="mailto:raquelsylos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FFF0F5?style=for-the-badge&logo=gmail&logoColor=black"></a> 
 </div>
+<br>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=raquelsylos&label=Profile%20views&color=0e75b6&style=flat" alt="raquelsylos" /> 
+</p>
+
