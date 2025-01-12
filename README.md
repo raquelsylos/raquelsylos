@@ -40,13 +40,13 @@
 <h3 align="center">📫 Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/raquelbiondi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=black">
+    <img src="https://img.shields.io/badge/LinkedIn-482FC4?style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
   <a href="https://www.instagram.com/_raquelbiondi/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-FFF0F5?style=for-the-badge&logo=instagram&logoColor=black">
+    <img src="https://img.shields.io/badge/-Instagram-482FC4?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:raquelsylos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FFF0F5?style=for-the-badge&logo=gmail&logoColor=black">
+    <img src="https://img.shields.io/badge/-Gmail-482FC4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
