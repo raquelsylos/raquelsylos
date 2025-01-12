@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src=""/>
+  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/header.png?raw=true"/>
 
   <h2> Welcome ✨</h2><br>
   <h3> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h3>
@@ -9,15 +9,15 @@
 <hr>
 <h3> 🔧 Languages and Tools </h3>
 
-<p> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-285497?style=for-the-badge&logo=ruby&logoColor=violet" alt="ruby" /> </a> 
-  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.shields.io/badge/Ruby_on_Rails-285497?style=for-the-badge&logo=ruby-on-rails&logoColor=violet" alt="rails" /> </a>  
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://shields.io/badge/git-285497?style=for-the-badge&logo=git&logoColor=violet" alt="git" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-285497?style=for-the-badge&logo=javascript&logoColor=violet" alt="javascript"/> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-285497?style=for-the-badge&logo=css3&logoColor=violet" alt="css3" /> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-285497?style=for-the-badge&logo=figma&logoColor=violet" alt="figma" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-285497?style=for-the-badge&logo=html5&logoColor=violet" alt="html5" /> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-285497?style=for-the-badge&logo=sass&logoColor=violet" alt="sass" /> </a> 
-  <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/PostgreSQL-285497?style=for-the-badge&logo=postgresql&logoColor=violet" alt="postgresql"/> </a> 
+<p> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-D7D4E1?style=for-the-badge&logo=ruby&logoColor=482FC4" alt="ruby" /> </a> 
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.shields.io/badge/Ruby_on_Rails-D7D4E1?style=for-the-badge&logo=ruby-on-rails&logoColor=482FC4" alt="rails" /> </a>  
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://shields.io/badge/git-D7D4E1?style=for-the-badge&logo=git&logoColor=482FC4" alt="git" /> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-D7D4E1?style=for-the-badge&logo=javascript&logoColor=482FC4" alt="javascript"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-D7D4E1?style=for-the-badge&logo=css3&logoColor=482FC4" alt="css3" /> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-D7D4E1?style=for-the-badge&logo=figma&logoColor=482FC4" alt="figma" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-D7D4E1?style=for-the-badge&logo=html5&logoColor=482FC4" alt="html5" /> </a> 
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-D7D4E1?style=for-the-badge&logo=sass&logoColor=482FC4" alt="sass" /> </a> 
+  <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/PostgreSQL-D7D4E1?style=for-the-badge&logo=postgresql&logoColor=482FC4" alt="postgresql"/> </a> 
 </p>
 
 <hr>
