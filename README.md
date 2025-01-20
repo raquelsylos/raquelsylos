@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/header_ghub.png?raw=true"/>
+  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/profile-header.png?raw=true"/>
 
   <h3> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h3>
 
