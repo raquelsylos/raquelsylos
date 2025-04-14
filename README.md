@@ -19,6 +19,17 @@
   <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/PostgreSQL-D7D4E1?style=for-the-badge&logo=postgresql&logoColor=482FC4" alt="postgresql"/> </a> 
 </p>
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| React.JS  |
+|     3| Ruby on Rails |
+
+</details>
+
 <hr>
 <h3> 🎓 Academic Background </h3>
 
