@@ -31,21 +31,6 @@
   
 </p>
 
-  
-</p>
-
-
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| React.JS  |
-|     3| Ruby on Rails |
-
-</details>
-
 <hr>
 <h3> 🎓 Academic Background </h3>
 
