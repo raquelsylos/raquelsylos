@@ -1,23 +1,39 @@
 <div align="center"> 
-  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/github_banner.png?raw=true"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd1dWVrbXdweTZ5ZHVhdnB6NTMybm5tcnk3ZThvdXhxbXA4ZGxhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/8EpJIqKDviPPXY32CQ/giphy.gif" width="200"/>
 
-  <h3> I'm a curious, tech enthusiast person, always willing to learn new things and languages 📚 </h3>
+  ##  I'm Raquel! Welcome to my GitHub! 
 
-  📍 From São Paulo (BR)
+  <img src="https://github.com/raquelsylos/raquelsylos/blob/main/illustration2.png?raw=true" width="200" height="200" align="right" />
+  <br>
+  <h3> I'm a curious, tech enthusiast person, always eager to learn new things and languages.  
+    Passionate about applying full stack skills to build projects that combine theory, practice and purpose.  
+    Constantly seeking experiences that challenge me, connect me with amazing people, and help me grow - both professionally and personally. </h3>
+
+    
 <br><br>
 <hr>
 <h3> 🔧 Languages and Tools </h3>
 
-<p> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-D7D4E1?style=for-the-badge&logo=ruby&logoColor=482FC4" alt="ruby" /> </a> 
-  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.shields.io/badge/Ruby_on_Rails-D7D4E1?style=for-the-badge&logo=ruby-on-rails&logoColor=482FC4" alt="rails" /> </a>  
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://shields.io/badge/git-D7D4E1?style=for-the-badge&logo=git&logoColor=482FC4" alt="git" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-D7D4E1?style=for-the-badge&logo=javascript&logoColor=482FC4" alt="javascript"/> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-D7D4E1?style=for-the-badge&logo=css3&logoColor=482FC4" alt="css3" /> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-D7D4E1?style=for-the-badge&logo=figma&logoColor=482FC4" alt="figma" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-D7D4E1?style=for-the-badge&logo=html5&logoColor=482FC4" alt="html5" /> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-D7D4E1?style=for-the-badge&logo=sass&logoColor=482FC4" alt="sass" /> </a> 
-  <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/PostgreSQL-D7D4E1?style=for-the-badge&logo=postgresql&logoColor=482FC4" alt="postgresql"/> </a> 
+<p style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" title="Ruby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" width="40" height="40" title="Ruby on Rails" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" title="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma" />
+  
+  
 </p>
+
+  
+</p>
+
 
 <details>
 <summary>My top languages</summary>
@@ -49,20 +65,36 @@
 ![snake dark](https://raw.githubusercontent.com/raquelsylos/raquelsylos/main/dist/github-snake-dark.svg?palette=github-dark)
 <hr>
 
-<h3 align="center">📫 Connect with me</h3>
+<h3 align="center">Let's connect!</h3>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/raquelbiondi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-482FC4?style=for-the-badge&logo=linkedin&logoColor=black">
-  </a>
-  <a href="https://www.instagram.com/_raquelbiondi/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-482FC4?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:raquelsylos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-482FC4?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1M2gyeDhqeXloNGp4bjdreGFpZTJ1YWk2ZWoyODYzb3ZkZW9nciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jz7vmVsnPYKCmvkSjR/giphy.gif" width="180" />
+      </td>
+      <td>
+        <p>
+          <a href="https://raquelsylos.github.io">
+            <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=fdf6e3&logoColor=000000&labelColor=fdf6e3&style=for-the-badge" height="35" />
+        </a>
+        </p>
+        <p>
+          <a href="https://www.linkedin.com/in/raquelbiondi/">
+            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=fdf6e3&logoColor=000000&labelColor=fdf6e3&style=for-the-badge" height="35" />
+          </a>
+        </p>
+        <p>
+          <a href="mailto:raquelsylos@gmail.com">
+            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=fdf6e3&logoColor=000000&labelColor=fdf6e3&style=for-the-badge" height="35" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raquelsylos&label=Profile%20views&color=0e75b6&style=flat" alt="raquelsylos" />
