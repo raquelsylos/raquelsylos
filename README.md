@@ -22,11 +22,11 @@
 <hr>
 <h3> 🎓 Academic Background </h3>
 
-✅ Graphic & Product Design at [FACAMP](https://vestibular3.facamp.com.br/) 
+- [x] Graphic & Product Design at [FACAMP](https://vestibular3.facamp.com.br/) 
   
-✅ Full-Stack Web Development at [Le Wagon](https://www.lewagon.com/) 
+- [x] Full-Stack Web Development at [Le Wagon](https://www.lewagon.com/) 
   
-🔜 Systems Analysis and Development at [UNINOVE](https://www.uninove.br/) (in progress 📶)
+- [ ] Systems Analysis and Development at [UNINOVE](https://www.uninove.br/) (in progress 📶)
 
 <br>
    
@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelsylos&layout=compact&theme=tokyonight&langs_count=6" alt="raquelsylos" />
 </div>
 
+![snake dark](https://raw.githubusercontent.com/raquelsylos/raquelsylos/main/dist/github-snake-dark.svg?palette=github-dark)
 <hr>
 
 <h3 align="center">📫 Connect with me</h3>
@@ -55,5 +56,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raquelsylos&label=Profile%20views&color=0e75b6&style=flat" alt="raquelsylos" />
 </p>
+
+
+
 
 
