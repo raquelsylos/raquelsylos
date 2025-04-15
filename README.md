@@ -1,7 +1,7 @@
 <div align="center"> 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd1dWVrbXdweTZ5ZHVhdnB6NTMybm5tcnk3ZThvdXhxbXA4ZGxhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/8EpJIqKDviPPXY32CQ/giphy.gif" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=00DEB9&text=Hello%20:)&textBg=false&fontColor=313131&fontAlignY=52&fontSize=37&animation=fadeIn"/>
 
-  ##  I'm Raquel! Welcome to my GitHub! 
+  ##  I'm Raquel, welcome to my GitHub! 
 
   <img src="https://github.com/raquelsylos/raquelsylos/blob/main/illustration2.png?raw=true" width="200" height="200" align="right" />
   <br>
@@ -12,7 +12,7 @@
     
 <br><br>
 <hr>
-<h3> 🔧 Languages and Tools </h3>
+<h3> 🔧 My Stacks </h3>
 
 <p style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" title="Ruby" />
