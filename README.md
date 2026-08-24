@@ -42,10 +42,10 @@
 
 <br>
    
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<!-- <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=raquelsylos&show_icons=true&locale=en&theme=tokyonight" alt="raquelsylos" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelsylos&layout=compact&theme=tokyonight&langs_count=6" alt="raquelsylos" />
-</div>
+</div> -->
 
 ![snake dark](https://raw.githubusercontent.com/raquelsylos/raquelsylos/main/dist/github-snake-dark.svg?palette=github-dark)
 <hr>
