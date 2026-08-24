@@ -1,13 +1,12 @@
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=00DEB9&text=Hello%20:)&textBg=false&fontColor=313131&fontAlignY=52&fontSize=37&animation=fadeIn"/>
 
-  ##  I'm Raquel, welcome to my GitHub! 
+  I'm Raquel, welcome to my GitHub! 
 
   <img src="https://github.com/raquelsylos/raquelsylos/blob/main/illustration2.png?raw=true" width="200" height="200" align="right" />
   <br>
-  <h3> I'm a curious, tech enthusiast person, always eager to learn new things and languages.  
-    Passionate about applying full stack skills to build projects that combine theory, practice and purpose.  
-    Constantly seeking experiences that challenge me, connect me with amazing people, and help me grow - both professionally and personally. </h3>
+  I'm a UX/UI designer passionate about creating intuitive, accessible, and visually engaging digital experiences. With a background in graphic design and front-end development, I combine creativity and technical understanding to design purposeful, user-centered interfaces. I'm always looking for opportunities to learn, collaborate, and grow through meaningful design challenges.
+ 
 
     
 <br><br>
