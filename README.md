@@ -64,7 +64,7 @@
         </a>
         </p>
         <p>
-          <a href="https://www.linkedin.com/in/raquelbiondi/">
+          <a href="https://www.linkedin.com/in/raquelsylos/">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=fdf6e3&logoColor=000000&labelColor=fdf6e3&style=for-the-badge" height="35" />
           </a>
         </p>
